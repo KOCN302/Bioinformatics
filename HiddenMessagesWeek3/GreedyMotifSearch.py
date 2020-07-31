@@ -1,1 +1,2 @@
-def GreedyMotifSearch
+def GreedyMotifSearch(Dna, k, t):
+    
